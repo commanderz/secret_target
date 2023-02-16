@@ -79,52 +79,49 @@ define(['./workbox-01d9f47c'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "about.html",
-    "revision": "db21b62a86c1bd0e909ff4bad875f70c"
+    "revision": "63a12dd4a51cc78b6908e11b361e51b1"
   }, {
-    "url": "assets/_...all_-652173b1.js",
+    "url": "assets/_...all_-ed46e7af.js",
     "revision": null
   }, {
-    "url": "assets/_name_-9c44fad1.js",
+    "url": "assets/_name_-9b58223c.js",
     "revision": null
   }, {
-    "url": "assets/404-f31227e9.js",
+    "url": "assets/404-68fc7375.js",
     "revision": null
   }, {
-    "url": "assets/about-7244ec06.js",
+    "url": "assets/about-d270da05.js",
     "revision": null
   }, {
-    "url": "assets/app-07eda55b.js",
+    "url": "assets/app-8f486c77.js",
     "revision": null
   }, {
-    "url": "assets/home-6b1cdc49.js",
+    "url": "assets/home-b48548c4.js",
     "revision": null
   }, {
-    "url": "assets/index-3d95b7ce.css",
+    "url": "assets/index-77c7a56b.css",
     "revision": null
   }, {
-    "url": "assets/README-c04b55fc.js",
+    "url": "assets/README-85725f23.js",
     "revision": null
   }, {
-    "url": "assets/virtual_pwa-register-f6d7a407.js",
+    "url": "assets/virtual_pwa-register-43119c6b.js",
     "revision": null
   }, {
     "url": "assets/workbox-window.prod.es5-295a6886.js",
     "revision": null
   }, {
     "url": "index_new.html",
-    "revision": "8943bbd4f32cf7efa2771367aff7f592"
+    "revision": "bf3a36aa353d5221d15495257186d49f"
   }, {
     "url": "index_old.html",
-    "revision": "8943bbd4f32cf7efa2771367aff7f592"
+    "revision": "bf3a36aa353d5221d15495257186d49f"
   }, {
     "url": "index.html",
-    "revision": "61167305d59dffb1de8e270865ec2c7f"
+    "revision": "d5053f32408f0af0b0b0f4e7bfcfaaea"
   }, {
     "url": "readme.html",
-    "revision": "72a8f40b9e73469f494a3d003c193754"
-  }, {
-    "url": "favicon.svg",
-    "revision": "ace522bcd0981d1ed1d24f2083f5457f"
+    "revision": "9b62cc15b0f97f61796a49ea4a4c7537"
   }, {
     "url": "safari-pinned-tab.svg",
     "revision": "8f91cd762d1e18f9c261acec1d55375a"

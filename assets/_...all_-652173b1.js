@@ -1,1 +1,0 @@
-import{d as a,a as n,o,c as _,t as c,f as l,g as r,m as e}from"./app-07eda55b.js";const s=a({__name:"[...all]",setup(p){const{t}=n();return(f,i)=>(o(),_("div",null,c(l(t)("not-found")),1))}});typeof e=="function"&&e(s);const m=r(s,[["__file","C:/_nextjsprojects/_angelika_proj/vitesse-main/src/pages/[...all].vue"]]);export{m as default};
