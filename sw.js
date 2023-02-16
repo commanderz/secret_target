@@ -79,49 +79,49 @@ define(['./workbox-01d9f47c'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "about.html",
-    "revision": "65fec6b57305ca3865c00a14b45bf3c3"
+    "revision": "db21b62a86c1bd0e909ff4bad875f70c"
   }, {
-    "url": "assets/_...all_-a9146853.js",
+    "url": "assets/_...all_-652173b1.js",
     "revision": null
   }, {
-    "url": "assets/_name_-497bced5.js",
+    "url": "assets/_name_-9c44fad1.js",
     "revision": null
   }, {
-    "url": "assets/404-6851953d.js",
+    "url": "assets/404-f31227e9.js",
     "revision": null
   }, {
-    "url": "assets/about-33403609.js",
+    "url": "assets/about-7244ec06.js",
     "revision": null
   }, {
-    "url": "assets/app-33f66ea4.js",
+    "url": "assets/app-07eda55b.js",
     "revision": null
   }, {
-    "url": "assets/home-06808a11.js",
+    "url": "assets/home-6b1cdc49.js",
     "revision": null
   }, {
-    "url": "assets/index-b675cccf.css",
+    "url": "assets/index-3d95b7ce.css",
     "revision": null
   }, {
-    "url": "assets/README-34b858ed.js",
+    "url": "assets/README-c04b55fc.js",
     "revision": null
   }, {
-    "url": "assets/virtual_pwa-register-862a88e9.js",
+    "url": "assets/virtual_pwa-register-f6d7a407.js",
     "revision": null
   }, {
     "url": "assets/workbox-window.prod.es5-295a6886.js",
     "revision": null
   }, {
     "url": "index_new.html",
-    "revision": "fb97dd29f5c23879d9037d540e89cecd"
+    "revision": "8943bbd4f32cf7efa2771367aff7f592"
   }, {
     "url": "index_old.html",
-    "revision": "fb97dd29f5c23879d9037d540e89cecd"
+    "revision": "8943bbd4f32cf7efa2771367aff7f592"
   }, {
     "url": "index.html",
-    "revision": "41eb9c75bafd964bb5bdc6b60d56b0aa"
+    "revision": "61167305d59dffb1de8e270865ec2c7f"
   }, {
     "url": "readme.html",
-    "revision": "a56fc39a42a8213d4c3bc101e93c39e9"
+    "revision": "72a8f40b9e73469f494a3d003c193754"
   }, {
     "url": "favicon.svg",
     "revision": "ace522bcd0981d1ed1d24f2083f5457f"
