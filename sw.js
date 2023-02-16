@@ -123,6 +123,9 @@ define(['./workbox-01d9f47c'], (function (workbox) { 'use strict';
     "url": "readme.html",
     "revision": "9b62cc15b0f97f61796a49ea4a4c7537"
   }, {
+    "url": "favicon.svg",
+    "revision": "ace522bcd0981d1ed1d24f2083f5457f"
+  }, {
     "url": "safari-pinned-tab.svg",
     "revision": "8f91cd762d1e18f9c261acec1d55375a"
   }, {
