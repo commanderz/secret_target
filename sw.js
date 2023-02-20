@@ -79,7 +79,7 @@ define(['./workbox-01d9f47c'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "about.html",
-    "revision": "63a12dd4a51cc78b6908e11b361e51b1"
+    "revision": "4fa4ce7b11fe3c182f0598e08565c909"
   }, {
     "url": "assets/_...all_-ed46e7af.js",
     "revision": null
@@ -112,16 +112,16 @@ define(['./workbox-01d9f47c'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "index_new.html",
-    "revision": "bf3a36aa353d5221d15495257186d49f"
+    "revision": "6431d5f7a99b9bc1afc1b2f310e21f6f"
   }, {
     "url": "index_old.html",
-    "revision": "bf3a36aa353d5221d15495257186d49f"
+    "revision": "6431d5f7a99b9bc1afc1b2f310e21f6f"
   }, {
     "url": "index.html",
-    "revision": "d5053f32408f0af0b0b0f4e7bfcfaaea"
+    "revision": "f4c5615a081dca9e4e6ac33d2508ed70"
   }, {
     "url": "readme.html",
-    "revision": "9b62cc15b0f97f61796a49ea4a4c7537"
+    "revision": "787d22cbf2d5528a3826053bfe0e64b9"
   }, {
     "url": "favicon.svg",
     "revision": "ace522bcd0981d1ed1d24f2083f5457f"
