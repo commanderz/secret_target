@@ -14,11 +14,25 @@
   "../../../@vite-plugin-pages/route-block": [
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-fd1bba34.js"
+    "/assets/virtual_pwa-register-7e6f0ec2.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
   "../../../__uno.css": [
+  ],
+  "../../../creo31/01.mp4": [
+    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "../../../creo31/02.mp4": [
+    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "../../../creo31/03.mp4": [
+    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "../../../favicon.svg": [
   ],
   "../../../plugin-define-model/use-vmodel": [
   ],
@@ -127,6 +141,10 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
   ],
+  "src/components/TheDivider.vue": [
+  ],
+  "src/components/TheDivider.vue?vue&type=script&setup=true&lang.ts": [
+  ],
   "src/components/TheFooter.vue": [
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
@@ -140,15 +158,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/assets/404-45a80617.js"
+    "/assets/404-3807414f.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-45a80617.js"
+    "/assets/404-3807414f.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/assets/home-681fbbac.js"
+    "/assets/home-ef064b5f.js"
   ],
   "src/main.ts": [
   ],
@@ -160,33 +178,91 @@
   ],
   "src/modules/pwa.ts": [
   ],
-  "src/pages/README.md": [
-    "/assets/README-eb4ff58d.js"
-  ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-13909331.js"
+    "/assets/_...all_-7976e8e2.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-13909331.js"
+    "/assets/_...all_-7976e8e2.js"
   ],
-  "src/pages/about.md": [
-    "/assets/about-d0cf834c.js"
+  "src/pages/_README.md": [
+    "/assets/_README-3e5306d4.js"
+  ],
+  "src/pages/_about.md": [
+    "/assets/_about-4b74baab.js"
+  ],
+  "src/pages/_creo_32_copy.md": [
+    "/assets/_creo_32_copy-3200730b.js"
+  ],
+  "src/pages/_creo_33_copy.md": [
+    "/assets/_creo_33_copy-fb100735.js"
+  ],
+  "src/pages/_index_24.md": [
+    "/assets/_index_24-b4fb8bb0.js"
+  ],
+  "src/pages/_index_new.vue": [
+    "/assets/_index_new-2a940028.js"
+  ],
+  "src/pages/_index_new.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_index_new-2a940028.js"
+  ],
+  "src/pages/_index_old.vue": [
+    "/assets/_index_old-b320362d.js"
+  ],
+  "src/pages/_index_old.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_index_old-b320362d.js"
+  ],
+  "src/pages/_index_proto.md": [
+    "/assets/_index_proto-e0fe07bb.js"
+  ],
+  "src/pages/creo_31.vue": [
+    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_31.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_31.vue?vue&type=style&index=0&scope=true&lang.css": [
+    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_32.vue": [
+    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_32.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_32.vue?vue&type=style&index=0&scope=true&lang.css": [
+    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_33.vue": [
+    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_33.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-67118753.css"
+  ],
+  "src/pages/creo_33.vue?vue&type=style&index=0&scope=true&lang.css": [
+    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-67118753.css"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-11947f15.js"
+    "/assets/_name_-e69213e6.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-11947f15.js"
+    "/assets/_name_-e69213e6.js"
   ],
-  "src/pages/index.md": [
+  "src/pages/index.vue": [
   ],
-  "src/pages/index_new.vue": [
+  "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/pages/index_new.vue?vue&type=script&setup=true&lang.ts": [
+  "src/pages/index_25.vue": [
   ],
-  "src/pages/index_old.vue": [
-  ],
-  "src/pages/index_old.vue?vue&type=script&setup=true&lang.ts": [
+  "src/pages/index_25.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/stores/user.ts": [
   ],
