@@ -14,22 +14,22 @@
   "../../../@vite-plugin-pages/route-block": [
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-7e6f0ec2.js"
+    "/assets/virtual_pwa-register-ffae1a41.js"
   ],
   "../../../@vite-plugin-vue-layouts/generated-layouts": [
   ],
   "../../../__uno.css": [
   ],
   "../../../creo31/01.mp4": [
-    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_31-28e3523d.js",
     "/assets/creo_33-67118753.css"
   ],
   "../../../creo31/02.mp4": [
-    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_31-28e3523d.js",
     "/assets/creo_33-67118753.css"
   ],
   "../../../creo31/03.mp4": [
-    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-3b496562.js",
     "/assets/creo_33-67118753.css"
   ],
   "../../../favicon.svg": [
@@ -158,15 +158,15 @@
   "src/composables/dark.ts": [
   ],
   "src/layouts/404.vue": [
-    "/assets/404-3807414f.js"
+    "/assets/404-32412bae.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-3807414f.js"
+    "/assets/404-32412bae.js"
   ],
   "src/layouts/default.vue": [
   ],
   "src/layouts/home.vue": [
-    "/assets/home-ef064b5f.js"
+    "/assets/home-65054ec9.js"
   ],
   "src/main.ts": [
   ],
@@ -179,82 +179,82 @@
   "src/modules/pwa.ts": [
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-7976e8e2.js"
+    "/assets/_...all_-fc1e04c3.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-7976e8e2.js"
+    "/assets/_...all_-fc1e04c3.js"
   ],
   "src/pages/_README.md": [
-    "/assets/_README-3e5306d4.js"
+    "/assets/_README-97ffd3c7.js"
   ],
   "src/pages/_about.md": [
-    "/assets/_about-4b74baab.js"
+    "/assets/_about-a1ae19fa.js"
   ],
   "src/pages/_creo_32_copy.md": [
-    "/assets/_creo_32_copy-3200730b.js"
+    "/assets/_creo_32_copy-3dcf3435.js"
   ],
   "src/pages/_creo_33_copy.md": [
-    "/assets/_creo_33_copy-fb100735.js"
+    "/assets/_creo_33_copy-bee0b2bd.js"
   ],
   "src/pages/_index_24.md": [
-    "/assets/_index_24-b4fb8bb0.js"
+    "/assets/_index_24-b84e7b43.js"
   ],
   "src/pages/_index_new.vue": [
-    "/assets/_index_new-2a940028.js"
+    "/assets/_index_new-9c803c98.js"
   ],
   "src/pages/_index_new.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_index_new-2a940028.js"
+    "/assets/_index_new-9c803c98.js"
   ],
   "src/pages/_index_old.vue": [
-    "/assets/_index_old-b320362d.js"
+    "/assets/_index_old-386a0349.js"
   ],
   "src/pages/_index_old.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_index_old-b320362d.js"
+    "/assets/_index_old-386a0349.js"
   ],
   "src/pages/_index_proto.md": [
-    "/assets/_index_proto-e0fe07bb.js"
+    "/assets/_index_proto-0b8d184d.js"
   ],
   "src/pages/creo_31.vue": [
-    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_31-28e3523d.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_31.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_31-28e3523d.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_31.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/creo_31-b7ff8cac.js",
+    "/assets/creo_31-28e3523d.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_32.vue": [
-    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_32-b0b3d7a2.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_32.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_32-b0b3d7a2.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_32.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/creo_32-04c6d37e.js",
+    "/assets/creo_32-b0b3d7a2.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_33.vue": [
-    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-3b496562.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_33.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-3b496562.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/creo_33.vue?vue&type=style&index=0&scope=true&lang.css": [
-    "/assets/creo_33-f8cd86f3.js",
+    "/assets/creo_33-3b496562.js",
     "/assets/creo_33-67118753.css"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-e69213e6.js"
+    "/assets/_name_-aed368eb.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-e69213e6.js"
+    "/assets/_name_-aed368eb.js"
   ],
   "src/pages/index.vue": [
   ],
